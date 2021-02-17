@@ -1,0 +1,22 @@
+.btn-black{
+	color: white;
+	background-color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+
+}
+
+.btn-grey{
+color: white;
+	background-color: #171a21;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+	border:solid;
+	border-width: 1px;
+	border-color:#edf6f9;
+	float: right;
+}
